@@ -1,0 +1,10 @@
+base
+knitr
+MASS
+neuralnet
+lubridate
+plyr
+ggplot2
+extrafont
+dplyr
+fitbitScraper
